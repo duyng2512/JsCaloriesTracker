@@ -4,4 +4,4 @@
   - Local Storage supported
   - ES6 Standard
 
-<img src="./img/caloriTracker.gif" width="800" style="border: 2px solid black">
+<img src="./img/caloriTracker.gif" width="1000" style="border: 2px solid black">
